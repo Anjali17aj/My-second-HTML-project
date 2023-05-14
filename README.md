@@ -1,2 +1,2 @@
-# My-second-HTML-project
-Contains a payment form using HTML
+My-second-HTML-project
+Contains a basic payment form layout using HTML
